@@ -1,10 +1,10 @@
 {
-    "all":{
+    "all":[
     {"id":1, "Name": "Akash Kumar", "Location": "Pune", "Phone_number": 9898989898, "Email": "akash@gmail.com", "Lawyer_Qualification": "LLB, BTech", "Experience": "5 Years", "profileUrl":"www.google.com"},
     {"id":2, "Name": "Shreyash Patel", "Location": "Mumbai", "Phone_number": 8898989898, "Email": "shreyash@gmail.com", "Lawyer_Qualification": "LLB","Experience": "5 Years", "profileUrl":"www.google.com"},
     {"id":3, "Name": "Atharva Kende", "Location": "Nagpur", "Phone_number": 7898989898, "Email": "atharva@gmail.com", "Lawyer_Qualification": "LLB, BTech", "Experience": "5 Years", "profileUrl":"www.google.com"},
     {"id":4, "Name": "Sumit", "Location": "Aurangabad", "Phone_number": 7798989898, "Email": "sumit@gmail.com", "Lawyer_Qualification": "LLB, BTech", "Experience": "5 Years", "profileUrl":"www.google.com"},
     {"id":5, "Name": "Jimmy McGill", "Location": "Pune", "Phone_number": 9998989898, "Email": "jimmy@gmail.com", "Lawyer_Qualification": "LLB, BTech", "Experience": "7 Years", "profileUrl":"www.google.com"},
     {"id":6, "Name": "Charles McGill", "Location": "Pune", "Phone_number": 9999989898, "Email": "charles@gmail.com", "Lawyer_Qualification": "LLB, LL. M", "Experience": "10 Years", "profileUrl":"www.google.com"}
-}
+]
 }
